@@ -35,5 +35,17 @@ I'm a passionate AI Developer with a keen interest in Machine Learning (ML) and 
 
 Let's connect to explore potential collaborations or just to talk tech! I'm always open to discussing new projects and innovative ideas in the field of AI and application development.
 
----
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+Favorite Tech
+
+    Tools, languages, and other things that I like to work with.
+
+Golang
+Go 	Python
+Python 	Jsonnet
+Jsonnet 	TypeScript
+TypeScript 	Kubernetes
+Kubernetes 	Docker
+Docker 	Debian
+Debian 	Grafana
+Grafana
+Coding Activity
