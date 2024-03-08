@@ -16,9 +16,17 @@ I'm a passionate AI Developer with a keen interest in Machine Learning (ML) and 
 
 ## Projects
 
-Macaan.AI (an innovative Software-as-a-Service (SaaS) platform designed specifically for parts selling vendors, our solution revolutionizes the way businesses access, visualize, and interact with their inventory. This cutting-edge platform is engineered to enhance operational efficiency and customer engagement through a suite of advanced features, including elaborated views, AI-powered chatbots, exploded views, and comprehensive 3D diagrams of models.)
-FullFr.me (FullFr.me, a trailblazing startup based in San Francisco, is revolutionizing the film and television production industry by harnessing the power of artificial intelligence to redefine the role of the assistant director. Specializing in script generation and a plethora of other AI-driven features, FullFr.me offers an innovative suite of tools designed to streamline the creative process, enhance efficiency, and unlock new realms of storytelling potential.)
-Lyzer AI (RAG Based startup providing chatbot creation services) 
+**Macaan.AI** 
+
+(an innovative Software-as-a-Service (SaaS) platform designed specifically for parts selling vendors, our solution revolutionizes the way businesses access, visualize, and interact with their inventory. This cutting-edge platform is engineered to enhance operational efficiency and customer engagement through a suite of advanced features, including elaborated views, AI-powered chatbots, exploded views, and comprehensive 3D diagrams of models.)
+
+**FullFr.me** 
+
+(FullFr.me, a trailblazing startup based in San Francisco, is revolutionizing the film and television production industry by harnessing the power of artificial intelligence to redefine the role of the assistant director. Specializing in script generation and a plethora of other AI-driven features, FullFr.me offers an innovative suite of tools designed to streamline the creative process, enhance efficiency, and unlock new realms of storytelling potential.)
+
+**Lyzer AI** 
+
+(RAG Based startup providing chatbot creation services) 
 
 ## How to Reach Me 📫
 
